@@ -10,4 +10,7 @@ func main() {
 	fmt.Println("feat-b2")
 	fmt.Println("feat-b3")
 	fmt.Println("feat-b4")
+	fmt.Println("feat-a3")
+	fmt.Println("feat-a4")
+	fmt.Println("feat-a5")
 }
